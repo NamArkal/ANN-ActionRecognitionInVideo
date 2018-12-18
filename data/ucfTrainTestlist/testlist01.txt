@@ -1,0 +1,15 @@
+ApplyEyeMakeup/v_ApplyEyeMakeup_g01_c02.avi
+ApplyEyeMakeup/v_ApplyEyeMakeup_g03_c04.avi
+ApplyEyeMakeup/v_ApplyEyeMakeup_g06_c05.avi
+ApplyLipstick/v_ApplyLipstick_g01_c02.avi
+ApplyLipstick/v_ApplyLipstick_g03_c04.avi
+ApplyLipstick/v_ApplyLipstick_g06_c05.avi
+Archery/v_Archery_g01_c02.avi
+Archery/v_Archery_g03_c04.avi
+Archery/v_Archery_g06_c05.avi
+BabyCrawling/v_BabyCrawling_g01_c02.avi
+BabyCrawling/v_BabyCrawling_g03_c04.avi
+BabyCrawling/v_BabyCrawling_g06_c05.avi
+BalanceBeam/v_BalanceBeam_g01_c02.avi
+BalanceBeam/v_BalanceBeam_g03_c04.avi
+BalanceBeam/v_BalanceBeam_g06_c05.avi
